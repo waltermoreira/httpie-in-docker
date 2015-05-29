@@ -10,3 +10,5 @@ License
 -------
 
 MIT
+
+.. _httpie: http://httpie.org
